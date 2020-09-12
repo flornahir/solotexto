@@ -33,7 +33,7 @@ th {
 }
 
 .contenedor{
-  width: 100%;
+  width: 100vw;
   padding: 40px 20px;
   background-color: #f7fdff;
 }
