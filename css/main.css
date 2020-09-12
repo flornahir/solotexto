@@ -39,6 +39,7 @@ th {
 }
 
 .texto {
+  width: 100vw;
   border-top: 2px solid #097599;
   padding: 50px 0;
 }
