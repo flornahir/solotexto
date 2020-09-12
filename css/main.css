@@ -6,7 +6,7 @@
   font-family: 'Quicksand', sans-serif;
 }
 
-body{
+html{
   width: 100vw;}
 
 
@@ -33,7 +33,7 @@ th {
 }
 
 .contenedor{
-  width: 100vw;
+  width: 100%;
   padding: 40px 20px;
   background-color: #f7fdff;
 }
